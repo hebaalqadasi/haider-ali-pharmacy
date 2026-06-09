@@ -20,7 +20,7 @@ Professional pharmacy landing page designed to increase customer engagement and 
 
 ## Live Demo
 
-I'll Add deployment link here
+[https://hebaalqadasi.github.io/haider-ali-pharmacy/]
 
 ## Author
 
